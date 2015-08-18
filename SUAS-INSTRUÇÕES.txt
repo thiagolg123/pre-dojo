@@ -1,2 +1,2 @@
-Coloque aqui suas instruções ou comentários que ache útil/relevantes para possamos ler 
-quando estivermos avaliando a sua solução
+Fiz o dojo por diversÃ£o, para ler o log basta editar o PathDoLog.java, 
+ou criar o log conforme os padrÃµes do teste, com o seguinte nome, na pasta: C:/match.log
